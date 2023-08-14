@@ -1,11 +1,13 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![login](https://github.com/Chirag1969/Flashchat/assets/72310140/8eeb132a-b19c-458c-892d-6c605bc68bcc)
+![enteremailpass](https://github.com/Chirag1969/Flashchat/assets/72310140/623c7778-ee67-4c78-a4f7-2c2f928fe0d3)
+![startchatting](https://github.com/Chirag1969/Flashchat/assets/72310140/47adc7c7-b514-42e1-a8d2-3ecddfe54894)
 
 
 # Flash Chat ⚡️
 
 ## Our Goal
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods.
+The objective is to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods.
 
 
 ## What you will create
