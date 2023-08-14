@@ -1,11 +1,16 @@
 
 # Methodology
 
-We login into the flashchat app
+We click on login into the flashchat app
 
 ![login](https://github.com/Chirag1969/Flashchat/assets/72310140/8eeb132a-b19c-458c-892d-6c605bc68bcc)
 
+We enter our login credentials or create new ones
+
 ![enteremailpass](https://github.com/Chirag1969/Flashchat/assets/72310140/623c7778-ee67-4c78-a4f7-2c2f928fe0d3)
+
+We chat with different people with different credentials on this app
+
 ![startchatting](https://github.com/Chirag1969/Flashchat/assets/72310140/47adc7c7-b514-42e1-a8d2-3ecddfe54894)
 
 
