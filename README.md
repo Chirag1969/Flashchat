@@ -1,6 +1,10 @@
 
 # Methodology
 
+1. Enter login info or create new ones.
+2. Login to your account.
+3. Chat with people with other IDs.
+   
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
 # Flash Chat ⚡️
